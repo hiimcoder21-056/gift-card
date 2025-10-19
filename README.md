@@ -59,35 +59,36 @@ npm install hoặc yarn add
 npm run dev hoặc yarn dev
 
  ```
-
-Mở trình duyệt tại 👉 http://localhost:5173/
+   Mở trình duyệt tại 👉 http://localhost:5173/
 ---
 
-🧭 Cấu trúc thư mục
+## 🧭 Cấu trúc thư mục
 
 
 
 <img width="269" height="415" alt="image" src="https://github.com/user-attachments/assets/011c44af-5619-4b61-b475-1c50dde059ad" />
 
 ---
-💻 Một số hình ảnh của sản phẩm
+## 💻 Một số hình ảnh của sản phẩm
+
+
 <img width="1917" height="934" alt="image" src="https://github.com/user-attachments/assets/130050a8-d37c-424d-a609-de15ddad6bff" />
 <img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/69b6b622-d3ff-47e6-98ba-bb0293658592" />
 
 ---
-🚀 Triển khai
+## 🚀 Triển khai
 
 Dự án có triển khai trên:
 
 Vercel: https://hiiamcoder-gift-card.vercel.app/
 ---
 
-📝 License
+## 📝 License
 
 Dự án này sử dụng giấy phép MIT.
 ---
 
-💖 Hỗ trợ
+## 💖 Hỗ trợ
 Nếu bạn thấy dự án này hữu ích, hãy ⭐ Star repo để ủng hộ nhé!
 Mọi đóng góp PR đều được hoan nghênh 🙌
 
